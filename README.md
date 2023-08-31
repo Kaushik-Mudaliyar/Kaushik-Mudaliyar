@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kaushik-Mudaliyar
-- I completed C language
+- ✔️ I completed C language.
 - 👀 I’m interested in Development.
 - 🌱 I’m currently learning C++ Language.
 - 💞️ I’m looking to collaborate on Different things.
