@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kaushik-Mudaliyar
+- I completed C language
 - 👀 I’m interested in Development.
-- 🌱 I’m currently learning Web Devlopment.
+- 🌱 I’m currently learning C++ Language.
 - 💞️ I’m looking to collaborate on Different things.
 - 📫 How to reach me by my email.
 
